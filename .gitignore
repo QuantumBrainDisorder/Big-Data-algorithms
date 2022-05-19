@@ -3,3 +3,4 @@
 *.sbt
 project
 target
+.bsp
