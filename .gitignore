@@ -2,7 +2,8 @@
 *.log
 
 # sbt
-*.sbt
+
+/*.sbt
 
 .bsp
 project
