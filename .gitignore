@@ -3,6 +3,8 @@
 
 # sbt
 
+.sbt
+/*.sbt
 ./*.sbt
 
 .bsp
