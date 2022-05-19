@@ -3,7 +3,7 @@
 
 # sbt
 
-/*.sbt
+./*.sbt
 
 .bsp
 project
