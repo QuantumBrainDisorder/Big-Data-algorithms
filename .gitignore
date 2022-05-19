@@ -3,6 +3,7 @@
 
 # sbt
 *.sbt
+
 .bsp
 project
 target
