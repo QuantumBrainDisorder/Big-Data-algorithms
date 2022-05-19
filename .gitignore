@@ -4,8 +4,11 @@
 # sbt
 
 .sbt
+*.sbt
 /*.sbt
+/.sbt
 ./*.sbt
+./.sbt
 
 .bsp
 project
