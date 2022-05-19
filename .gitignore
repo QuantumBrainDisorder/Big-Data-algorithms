@@ -1,11 +1,6 @@
 *.class
 *.log
-.sbt
 *.sbt
-/*.sbt
-/.sbt
-./*.sbt
-./.sbt
 .bsp
 project
 target
